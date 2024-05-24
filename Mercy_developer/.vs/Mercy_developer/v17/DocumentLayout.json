@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|c:\\users\\arrie\\onedrive\\escritorio\\mercy_developer\\mercy_developer\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|c:\\users\\arrie\\onedrive\\escritorio\\mercy_developer\\mercy_developer\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|solutionrelative:views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|c:\\users\\arrie\\onedrive\\escritorio\\mercy_developer\\mercy_developer\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|solutionrelative:views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|c:\\users\\arrie\\onedrive\\escritorio\\mercy_developer\\mercy_developer\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|c:\\users\\arrie\\onedrive\\escritorio\\mercy_developer\\mercy_developer\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|solutionrelative:views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|c:\\users\\arrie\\onedrive\\escritorio\\mercy_developer\\mercy_developer\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|solutionrelative:views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|c:\\users\\arrie\\onedrive\\escritorio\\mercy_developer\\mercy_developer\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548F89D8-E5A5-4803-947D-E700FBEBFFB7}|Mercy_developer.csproj|solutionrelative:views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:57:54.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Servicios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servicios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Servicios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Servicios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:57:46.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:53:30.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:52:28.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Usuarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Usuarios\\Details.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:51:49.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:51:25.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arrie\\OneDrive\\Escritorio\\mercy_developer\\Mercy_developer\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:48:49.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
