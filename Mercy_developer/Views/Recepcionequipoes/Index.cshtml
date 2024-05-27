@@ -1,0 +1,107 @@
+﻿@model IEnumerable<Mercy_developer.Models.Recepcionequipo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Recepcion de equipos</h1>
+
+<p>
+    <a asp-action="Create">Crear</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoPc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Accesorio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MarcaPc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModeloPc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nserie)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CapacidadRam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoAlmacenamiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CapacidadAlmacenamiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoGpu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Grafico)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Servicio)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoPc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Accesorio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MarcaPc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModeloPc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nserie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CapacidadRam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoAlmacenamiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CapacidadAlmacenamiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoGpu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Grafico)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Servicio.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
