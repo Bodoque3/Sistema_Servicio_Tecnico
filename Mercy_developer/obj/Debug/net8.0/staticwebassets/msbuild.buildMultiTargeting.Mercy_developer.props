@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Mercy_developer.props" />
-</Project>
